@@ -1,0 +1,15 @@
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\bin\Debug\net7.0\lect1_example3.exe
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\bin\Debug\net7.0\lect1_example3.deps.json
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\bin\Debug\net7.0\lect1_example3.runtimeconfig.json
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\bin\Debug\net7.0\lect1_example3.dll
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\bin\Debug\net7.0\lect1_example3.pdb
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\lect1_example3.csproj.AssemblyReference.cache
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\lect1_example3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\lect1_example3.AssemblyInfoInputs.cache
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\lect1_example3.AssemblyInfo.cs
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\lect1_example3.csproj.CoreCompileInputs.cache
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\lect1_example3.dll
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\refint\lect1_example3.dll
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\lect1_example3.pdb
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\lect1_example3.genruntimeconfig.cache
+D:\Программирование\знакомство_с_языками_программирования\lect1_example3\obj\Debug\net7.0\ref\lect1_example3.dll
