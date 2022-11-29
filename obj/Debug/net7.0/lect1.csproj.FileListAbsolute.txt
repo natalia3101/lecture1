@@ -1,0 +1,15 @@
+D:\Программирование\знакомство_с_языками_программирования\lect1\bin\Debug\net7.0\lect1.exe
+D:\Программирование\знакомство_с_языками_программирования\lect1\bin\Debug\net7.0\lect1.deps.json
+D:\Программирование\знакомство_с_языками_программирования\lect1\bin\Debug\net7.0\lect1.runtimeconfig.json
+D:\Программирование\знакомство_с_языками_программирования\lect1\bin\Debug\net7.0\lect1.dll
+D:\Программирование\знакомство_с_языками_программирования\lect1\bin\Debug\net7.0\lect1.pdb
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\lect1.csproj.AssemblyReference.cache
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\lect1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\lect1.AssemblyInfoInputs.cache
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\lect1.AssemblyInfo.cs
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\lect1.csproj.CoreCompileInputs.cache
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\lect1.dll
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\refint\lect1.dll
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\lect1.pdb
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\lect1.genruntimeconfig.cache
+D:\Программирование\знакомство_с_языками_программирования\lect1\obj\Debug\net7.0\ref\lect1.dll
